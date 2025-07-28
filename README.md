@@ -11,9 +11,7 @@ A stylish and interactive animated AirPods product carousel built with **HTML**,
 - 📌 Next / Previous navigation
 - 🛒 "Add to Cart" and "Checkout" buttons (UI only)
 
-## 🖼️ Live Demo
 
-🔗 [View Live Demo](https://aadarsh225.github.io/Airpods-Animation/)
 
 ## 🛠️ Tech Stack
 
